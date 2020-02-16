@@ -1,0 +1,14 @@
+{
+    "name": "Embrace Data Chaos",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_frame": "Embrace Data Chaos desktop Seburo 23082019.png"
+        },
+        "colors": {
+            "frame": "rgba(229, 230, 232, 1)",
+            "tab_background_text": "rgba(0, 255, 65, 1)"
+        }
+    }
+}
